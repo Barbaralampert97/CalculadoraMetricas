@@ -46,7 +46,7 @@ Siga os passos abaixo para executar o projeto em sua máquina local.
 
 1.  **Clone o repositório:**
     ```sh
-    git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
+    git clone [https://github.com/Barbaralampert97/CalculadoraMetricas](https://github.com/Barbaralampert97/CalculadoraMetricas)
     ```
     *Substitua `SEU-USUARIO` e `SEU-REPOSITORIO` pelos seus dados.*
 
