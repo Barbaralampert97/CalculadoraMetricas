@@ -48,7 +48,7 @@ Siga os passos abaixo para executar o projeto em sua máquina local.
     ```sh
     git clone [https://github.com/Barbaralampert97/CalculadoraMetricas](https://github.com/Barbaralampert97/CalculadoraMetricas)
     ```
-    *Substitua `SEU-USUARIO` e `SEU-REPOSITORIO` pelos seus dados.*
+    
 
 2.  **Navegue até a pasta do projeto:**
     ```sh
@@ -74,12 +74,8 @@ Siga os passos abaixo para executar o projeto em sua máquina local.
 
 5.  Os resultados serão exibidos diretamente no seu terminal. Para testar outros valores, basta editar as variáveis `VP`, `VN`, `FP` e `FN` no topo do arquivo `calculadora.py`.
 
----
 
-## ✍️ Autor
 
-* **[Bárbara Lampert]** - [LinkedIn](www.linkedin.com/in/barbara-lampert/) 
 
----
 
 
